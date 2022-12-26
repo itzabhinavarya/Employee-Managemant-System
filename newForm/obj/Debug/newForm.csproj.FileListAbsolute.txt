@@ -1,0 +1,12 @@
+D:\newForm\newForm\bin\Debug\newForm.exe.config
+D:\newForm\newForm\bin\Debug\newForm.exe
+D:\newForm\newForm\bin\Debug\newForm.pdb
+D:\newForm\newForm\obj\Debug\newForm.csproj.AssemblyReference.cache
+D:\newForm\newForm\obj\Debug\newForm.Form1.resources
+D:\newForm\newForm\obj\Debug\newForm.Properties.Resources.resources
+D:\newForm\newForm\obj\Debug\newForm.csproj.GenerateResource.cache
+D:\newForm\newForm\obj\Debug\newForm.csproj.CoreCompileInputs.cache
+D:\newForm\newForm\obj\Debug\newForm.exe
+D:\newForm\newForm\obj\Debug\newForm.pdb
+D:\newForm\newForm\obj\Debug\newForm.deleteform.resources
+D:\newForm\newForm\obj\Debug\newForm.UpdateForm.resources
