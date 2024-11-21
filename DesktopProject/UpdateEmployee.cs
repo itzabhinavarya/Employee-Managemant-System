@@ -52,5 +52,10 @@ namespace DesktopProject
                 conn.Close();
             }
         }
+
+        private void EmpId_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
